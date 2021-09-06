@@ -2,7 +2,7 @@ import os
 import sys
 os.system("cls")
 
-
+# com
 n = int(input())
 c = 1
 k = 1
